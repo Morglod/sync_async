@@ -32,5 +32,5 @@ open http://localhost:8080
 
 ## PS
 
-While writing prototype, found greate Mutex implementation  
+While writing prototype, found nice Mutex implementation  
 https://blogtitle.github.io/using-javascript-sharedarraybuffers-and-atomics/
